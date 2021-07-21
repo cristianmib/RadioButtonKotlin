@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButtonKotlin</string>
+    <string name="rbop1">Sumar</string>
+    <string name="rbop2">Restar</string>
+    <string name="rbop3">Multiplicar</string>
+    <string name="rbop4">Dividir</string>
+    <string name="ednum1">Ingresar un valor</string>
+    <string name="ednum2">Ingresar un valor</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="tvresultado"></string>
+</resources>
